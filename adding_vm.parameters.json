@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "VmResourceId": {
+            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/FHADOO/providers/Microsoft.Compute/virtualMachines/fhadoo" 
+        },
+        "VmLocation": {
+            "value": "Central US" 
+        },
+        "osType": {
+            "value": "windows" 
+        },
+        "WorkspaceResourceId": {
+            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourcegroups/fhadoo/providers/microsoft.operationalinsights/workspaces/log22" 
+        }
+    }
+}
