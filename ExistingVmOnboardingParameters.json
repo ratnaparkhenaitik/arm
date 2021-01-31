@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmResourceId": {
-            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/FHADOO/providers/Microsoft.Compute/virtualMachines/fhadoo"
+            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/WINTEST/providers/Microsoft.Compute/virtualMachines/wintest"
         },
         "vmLocation": {
             "value": "Central US"
@@ -12,7 +12,7 @@
             "value": "Windows"
         },
         "workspaceResourceId": {
-            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourcegroups/fhadoo/providers/microsoft.operationalinsights/workspaces/log22"
+            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourcegroups/wintest/providers/microsoft.operationalinsights/workspaces/log21"
             
         }
     }
