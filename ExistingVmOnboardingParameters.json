@@ -6,7 +6,7 @@
             "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/WINTEST/providers/Microsoft.Compute/virtualMachines/wintest"
         },
         "vmLocation": {
-            "value": "Central US"
+            "value": "West US 2"
         },
         "osType": {
             "value": "Windows"
