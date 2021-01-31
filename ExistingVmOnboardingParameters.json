@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmResourceId": {
-            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/WINTEST/providers/Microsoft.Compute/virtualMachines/wintest"
+            "value": "/subscriptions/df794e84-3adf-4c42-936d-156f1c6aa7ce/resourceGroups/WINTEST/providers/Microsoft.Compute/virtualMachines/win2"
         },
         "vmLocation": {
             "value": "West US 2"
